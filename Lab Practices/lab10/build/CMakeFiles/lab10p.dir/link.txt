@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/lab10p.dir/main.cpp.o  -o lab10p  -Wl,-rpath,/mnt/d/CPPDemo/2023F-CS205/lab10/build/libs liba/libMYLIBA.a libs/libMYLIBS.so 

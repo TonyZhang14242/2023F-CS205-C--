@@ -1,0 +1,22 @@
+#define a b
+#define aa cc
+#define aaa ddd
+#define aaaa eeee
+#define aaaaa fffff
+
+a ? aa . aaa ! a a aaa aaaaa aaaaa  aaa  aa aa  aaa aa aaaaaa aaaaaaaaaaa aaa aaaa a aaaa a aaaaaaa aaa a a aaaaaa aaaaaaaaaaaaa aaa aaa aaa
+
+#undef aa
+
+a ? aa . aaa ! a a aaa aaaaa aaaaa  aaa  aa aa  aaa aa aaaaaa aaaaaaaaaaa aaa aaaa a aaaa a aaaaaaa aaa a a aaaaaa aaaaaaaaaaaaa aaa aaa aaa
+
+#undef a
+#undef aaa
+#undef aaaa
+#undef aaaaa
+
+a ? aa . aaa ! a a aaa aaaaa aaaaa  aaa  aa aa  aaa aa aaaaaa aaaaaaaaaaa aaa aaaa a aaaa a aaaaaaa aaa a a aaaaaa aaaaaaaaaaaaa aaa aaa aaa
+
+#undef a
+#undef aa
+#undef aaa

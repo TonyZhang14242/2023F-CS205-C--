@@ -1,0 +1,17 @@
+#define q1 b1
+#define q1( a ) a + b2
+#define q1( a , b ) a * b + b3
+#define q1( a , b , c ) a + b * c + b4
+
+q1 q1( q ) q1( a , b , c )
+
+#undef q1( a , b , c )
+
+q1( x , y , z )
+
+#undef q1( _ , _ )
+#undef q1( _ )
+
+q1 q1( 987 )
+
+#define q1 hi

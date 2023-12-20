@@ -1,0 +1,12 @@
+#define you I
+#define him her
+
+I know that you met him yesturday.
+
+Tell me the truth.
+
+#undef him
+
+Dogs are usually kind to humans, but not to him. Because he is a cat.
+
+#define you who

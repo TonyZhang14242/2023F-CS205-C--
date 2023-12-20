@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/functions.h
+
+/mnt/d/CPPDemo/2023F-CS205/lab10/main.cpp
+functions.h
+/mnt/d/CPPDemo/2023F-CS205/lab10/functions.h
+iostream
+-
+

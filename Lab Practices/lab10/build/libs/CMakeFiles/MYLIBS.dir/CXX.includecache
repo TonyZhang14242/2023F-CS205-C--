@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/functions.h
+
+/mnt/d/CPPDemo/2023F-CS205/lab10/libs/div.cpp
+functions.h
+/mnt/d/CPPDemo/2023F-CS205/lab10/libs/functions.h
+
+/mnt/d/CPPDemo/2023F-CS205/lab10/libs/mul.cpp
+functions.h
+/mnt/d/CPPDemo/2023F-CS205/lab10/libs/functions.h
+

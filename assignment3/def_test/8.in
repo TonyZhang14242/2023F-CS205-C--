@@ -1,0 +1,958 @@
+#define q1 b1
+#define q1( a ) a + b2
+#define q1( a , b ) a * b + b3
+#define q1( a , b , c ) a + b * c + b4
+
+q
+1
+q1(
+    ( 1 + 2 ) , 3 , (
+        ( 4 + 5 ) 
+    ) )
+q1 q1(
+    ( q , w )
+)
+q1(
+    a ( b ,
+        b )
+    , c
+)
+(
+    haha )
+( haha ,
+hihi ,
+hehe )
+q1(
+a
+aaaA
+)
+
+q1(
+a
+,
+b
+,
+c
+)
+
+#undef q1( a , b , c )
+
+q1( x , y , z )
+
+#undef q1( _ , _ )
+#undef q1( _ )
+
+q1 q1( 987 )
+
+
+#define inv( x , y ) y x
+inv(
+
+) , g(
+    x
+)
+
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+#undef a
+#define a b
+a a a a a a a a a a a a a a a a a a a a a

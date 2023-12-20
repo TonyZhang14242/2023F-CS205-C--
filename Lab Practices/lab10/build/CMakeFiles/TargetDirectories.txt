@@ -1,0 +1,9 @@
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/CMakeFiles/edit_cache.dir
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/CMakeFiles/lab10p.dir
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/liba/CMakeFiles/rebuild_cache.dir
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/liba/CMakeFiles/edit_cache.dir
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/liba/CMakeFiles/MYLIBA.dir
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/libs/CMakeFiles/rebuild_cache.dir
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/libs/CMakeFiles/edit_cache.dir
+/mnt/d/CPPDemo/2023F-CS205/lab10/build/libs/CMakeFiles/MYLIBS.dir

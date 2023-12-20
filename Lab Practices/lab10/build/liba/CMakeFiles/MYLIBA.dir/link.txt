@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMYLIBA.a  CMakeFiles/MYLIBA.dir/add.cpp.o CMakeFiles/MYLIBA.dir/sub.cpp.o
+/usr/bin/ranlib libMYLIBA.a

@@ -1,0 +1,4 @@
+#define aa bb
+#define cc aa
+cc
+q1( aa )

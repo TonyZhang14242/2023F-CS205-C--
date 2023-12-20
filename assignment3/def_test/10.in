@@ -1,0 +1,351 @@
+#define q1 b1
+#define q1( a ) a + b2
+#define q1( a , b ) a * b + b3
+#define q1( a , b , c ) a + b * c + b4
+
+q
+1
+q1(
+    ( 1 + 2 ) , 3 , (
+        ( 4 + 5 ) 
+    ) )
+
+q1 q1(
+    ( q , w )
+)
+
+q1(
+    a ( b ,
+        b )
+    , c
+)
+(
+    haha )
+( haha ,
+hihi ,
+hehe )
+q1(
+a
+aaaA
+)
+
+q1(
+a
+,
+b
+,
+c
+)
+
+#undef q1( a , b , c )
+
+q1( x , y , z )
+
+#undef q1( _ , _ )
+#undef q1( _ )
+
+q1 q1( 987 )
+
+#define inv( x , y ) y x
+inv(
+
+) , g(
+    x
+)
+
+#define aabr An
+#define aabg xH
+#define aabB iw
+#define aaaV rR
+#define aadI ik
+#define aacC ec
+#define aacp GU
+#define aafu vn
+#define aaca Yc
+#define aadZ nI
+#define aaej Ef
+#define aabv Pw
+#define aadK NB
+#define aaaI wb
+#define aaaQ Iy
+#define aabA ar
+#define aaaT NA
+#define aaei ON
+#define aacR cc
+#define aabu LE
+#define aaaZ NX
+#define aacH ex
+#define aaeX dc
+#define aaem xh
+#define aaeW Tl
+#define aadm nZ
+#define aacX rA
+#define aafv IU
+#define aabI wS
+#define aabz Gy
+#define aaae kx
+#define aaeL Xg
+#define aaao ej
+#define aafd cD
+#define aaea YH
+#define aadU mt
+#define aadp Qm
+#define aaaL FF
+#define aaez rq
+#define aabk Os
+#define aafb Tn
+#define aaep Vw
+#define aafj DS
+#define aaba qC
+#define aadf rB
+#define aack mu
+#define aaab qT
+#define aaek OL
+#define aabi KS
+#define aaar sV
+#define aafi ke
+#define aacw iD
+#define aaeS hd
+#define aabF ng
+#define aabS FL
+#define aabR JY
+#define aafy kQ
+#define aaaN Xl
+#define aaaw sW
+#define aacd HI
+#define aaev nx
+#define aabD nd
+#define aafw oC
+#define aabd rH
+#define aabO pH
+#define aadR WT
+#define aadh Ea
+#define aadF fX
+#define aadx CC
+#define aacf Fb
+#define aaal DZ
+#define aaeH fD
+#define aaee AB
+#define aabm hV
+#define aada wg
+#define aafk BM
+#define aafr dZ
+#define aacS wJ
+#define aaad am
+#define aaaW yB
+#define aaeP PF
+#define aaft kq
+#define aaeN Hf
+#define aafF Gs
+#define aadE hg
+#define aaeT WA
+#define aabZ qu
+#define aafc bG
+#define aacb Dz
+#define aaeB ta
+#define aaaH Jp
+#define aafa QW
+#define aadC pO
+#define aaaf HB
+#define aael iH
+#define aafm pf
+#define aadX Ez
+#define aadY ws
+#define aadA vc
+#define aaaP QL
+#define aabl bx
+#define aaeG IL
+#define aabK Wp
+#define aaeU lI
+#define aafq Aq
+#define aadT cj
+#define aaew xe
+#define aabM Ep
+#define aaaR iC
+#define aaeJ ha
+#define aabL MB
+#define aaaB HR
+#define aaav rq
+#define aacm tK
+#define aacq on
+#define aaaF ih
+#define aadk ZU
+#define aaeO or
+#define aadc jN
+#define aacE Dx
+#define aabp Hs
+#define aaas CM
+#define aadG ux
+#define aaeC Xg
+#define aabW ks
+#define aadH mP
+#define aaaS VV
+#define aafC yB
+#define aabJ sR
+#define aabn rb
+#define aacy pq
+#define aadd dY
+#define aafx Jw
+#define aadq Vp
+#define aabe pG
+#define aabC jQ
+#define aaeo Hi
+#define aaey wu
+#define aaaG xP
+#define aacB PL
+#define aacQ Dv
+#define aaet ku
+#define aaak xG
+#define aafA Ev
+#define aaaJ nO
+#define aaaD LU
+#define aacW MC
+#define aaeu nM
+#define aadQ ap
+#define aaah Wq
+#define aabw AT
+#define aaeQ rr
+#define aacL zg
+#define aabX Fb
+#define aacT Yh
+#define aabo ti
+#define aaag BA
+#define aacY Ug
+#define aafo RJ
+#define aacg Ur
+#define aadz UR
+#define aafh he
+#define aacx Yp
+#define aacv Er
+#define aacc cx
+#define aaeY XF
+#define aabs xR
+#define aaeR tq
+#define aaeZ dN
+#define aadu VH
+#define aaaa jf
+#define aaer Hi
+#define aabY PL
+#define aafI GL
+#define aafg lI
+#define aaau dE
+#define aadO ct
+#define aaeb HU
+#define aaff ba
+#define aach Mp
+#define aadS Eo
+#define aacZ BU
+#define aacu dK
+#define aadb Nf
+#define aafe gZ
+#define aaax LC
+#define aacD gr
+#define aabH Iz
+#define aacl pw
+#define aaeE Yb
+#define aaaY mE
+#define aaaA ks
+#define aacj fj
+#define aaaX UD
+#define aadg yt
+#define aadV Rm
+#define aact Sm
+#define aacz FV
+#define aabt kG
+#define aadP FJ
+#define aafn BG
+#define aabc dv
+#define aaeh mW
+#define aaat bf
+#define aacJ Kh
+#define aaay io
+#define aafE eJ
+#define aaen wk
+#define aabq Qi
+#define aaeF Pq
+#define aadj iD
+#define aacM el
+#define aadL ro
+#define aadt VU
+#define aaeD Rq
+#define aaac hX
+#define aafs HA
+#define aacs XH
+#define aacG Ag
+#define aabU GG
+#define aaai VM
+#define aaed MK
+#define aadJ AI
+#define aacI KF
+#define aaaM rb
+#define aaeM IM
+#define aacr lG
+#define aabj SX
+#define aadW oL
+#define aaaz fW
+#define aabG yK
+#define aaeA Qr
+#define aaby js
+#define aaeq LG
+#define aadD Rw
+#define aaap Dj
+#define aaaq DE
+#define aafz FQ
+#define aadn Zt
+#define aadw dB
+#define aade vk
+#define aacU ib
+#define aaeI hM
+#define aadB wi
+#define aafp NF
+#define aaaE Zc
+#define aafG nP
+#define aabf eT
+#define aaes Gx
+#define aabE xF
+#define aaeg Lz
+#define aacP Co
+#define aabQ TZ
+#define aaaK mm
+#define aady WD
+#define aabV le
+#define aadl UY
+#define aadM RT
+#define aaeK ef
+#define aadN jN
+#define aacO XQ
+#define aaaC CP
+#define aado JO
+#define aadr hm
+#define aadv Yg
+#define aaec kY
+#define aabN uf
+#define aabP BO
+#define aace Ay
+#define aaaU tC
+#define aaex Fp
+#define aaaj Fs
+#define aacN ln
+#define aaci wL
+#define aabh bE
+#define aaan YS
+#define aacA vR
+#define aads YZ
+#define aafB dP
+#define aacn ct
+#define aafH wI
+#define aacF Pp
+#define aaaO or
+#define aacK qL
+#define aaam Ll
+#define aabx UE
+#define aadi BP
+#define aabT Gn
+#define aacV MC
+#define aafD FU
+#define aaco zK
+#define aafl Kw
+#define aabb Su
+#define aaeV jC
+#define aaef Bs
+aack aaic aael aaec aajB aait aahA aaaz aaav aadp aade aahb aaiR aadh aafd aais aaiA aaiU aacB aabl aahH aaeT aadf aafo aaeb aahh aafc aagR aadx aahU aadv aacP aagq aaeO aagS aadt aadC aabU aabb aadX aafj aaef aaig aabC aaeu aaaL aaao aaaw aajF aajD aabI aahG aaeR aaeN aaaw aaiS aaco aafy aage aacU aaaU aagH aafJ aahl aabQ aaad aahM aacA aabX aaiN aadF aaep aaau aacf aafR aaeP aajF aado aafl aajE aadl aaeb aaeN aafk aaiO aacr aaex aail aaeY aahJ aabz aafS aabS aaeq aaaF aaaQ aaeu aais aadq aagr aahz aagV aahO aahU aagj aaea aaal aagi aaew aafw aado aahH aagG aaib aaau aafO aaaN aabZ aabB aafL aaac aaai aaiL aaiI aabH aajr aajz aagb aaid aaar aajA aafW aaev aahJ aabs aahM aaiR aair aabw aadH aabq aaeK aaiw aahW aaao aaiQ aabm aabb aabj aacO aadU aahZ aaae aacZ aahc aabL aacK aaed aahM aahV aabC aaeP aaem aafX aacS aacM aabl aacd aaby aacH aacS aajC aahs aabI aahS aahG aaaT aaje aafP aacc aaja aagR aahk aajf aagY aaeG aabk aagR aafR aagf aafg aaht aaic aagA aaaT aabo aajn aace aaaz aahT aaeM aadr aahP aajm aaeZ aadj aahm aada aacH aaaD aacl aacc aahu aajv aaip aabU aabD aajz aaiL aaeC aadg aaem aacp aabC aabg aaaq aajE aahB aacv aaax aacW aaep aaaW aahT aadV aade aabw aaip aadm aaee aaiS aafx aado aadO aacu aabX aafI aadX aaiE aaeO aaiz aaiT aagi aahX aahD aaho aain aahC aacs aahQ aafh aafo aajn aadm aadC aadC aagq aacg aaiZ aajC aads aaft aacC aagG aajh aaeW aafL aacs aagc aaeK aaeo aacd aabf aaaQ aaau aaiI aaie aafQ aagE aaaQ aaea aaiU aadn aadI aacA aadX aaes aaiQ aagd aadM aafU aajw aajf aaiw aadE aafP aaaV aajq aaih aagX aabC aacP aaja aacH aadF aajv aabJ aaiR aacN aafw aagQ aadV aaeK aahl aaeL aaes aabC aaje aaaK aaeN aaas aagE aabL aagF aacD aafq aajC aady aaci aaid aaaP aadK aaia aagX aadz aaiN aadU aacq aafh aagH aaeU aajf aaaX aajE aagK aafI aaby aafu aaco aaci aaaB aaju aaiN aacn aagu aaiy aahD aady aacq aagT aabW aaan aahL aahe aahk aais aadu aabz aabc aaiB aafo aafX aafi aagl aadd aacm aajc aaeC aahG aaiy aagK aaih aain aacZ aahC aacj aabR aacH aafH aabp aajA aaeL aaiq aahF aaiY aadd aagr aacM aabK aaeC aaiv aagY aahH aadX aaaM aabe aadr aagW aacO aaif aafO aagH aagG aaev aagO aabL aagE aaiG aaes aacG aahd aabv aaez aacW aagi aadR aafZ aaac aagD aahJ aaeE aacA aacj aacF aagx aacV aaaR aagW aaal aaaO aafv aaga aahv aajk aahD aaeD aabp aaeC aaaL aacP aaeq aaeX aaek aaiP aahT aaaN aaaj aaem aaaP aagM aajd aacB aajn aabG aaco aadm aabK aaan aaaD aabV aabb aafY aafd aafE aafC aadb aaaC aadZ aaeL aaib aagP aagj aads aabt aacA aabF aaiU aacJ aacZ aagR aajw aacw aagA aagl aabl aaiO aagF aacV aagk aaeq aabY aahl aahx aahc aadk aadt aahl aaaU aaeB aacq aaiV aabK aaiz aajw aaal aabt aaij aago aabl aabD aaaH aahP aabh aahi aaeu aajg aady aaih aacv aaac aacS aaeu aaew aaaJ aaiE aaeO aabk aagj aafI aafL aaiz aacf aaeD aaeA aabV aabX aadb aaaz aaft aaem aaiQ aaga aacv aahf aaaK aadX aagG aaej aacz aajb aabt aacz aaaX aafP aadi aajB aahL aabA aage aadN aaeu aacf aadb aagf aadN aaeW aaic aagP aacD aaaX aaij aaiB aagY aahN aagb aahI aace aadb aaiZ aabL aajk aaaN aabs aahq aadK aabI aahl aabQ aadj aaaS aacL aahD aaaf aafM aabk aadT aahR aajn aabc aahC aahs aagt aagy aaeK aaeA aacT aajB aagF aadc aagc aafy aaju aagP aagR aahe aahI aaiz aaeK aajy aaiQ aacK aajr aadV aacP aafy aafg aagI aaaR aabV aaeS aait aajn aabG aafl aabA aagg aafm aabv aaan aaio aaeF aacU aaid aabP aagT aafB aagF aafM aaht aadF aacf aahl aadq aaga aaav aaiO aaio aael aajF aaaD aaje aafB aagZ aahS aabg aaiz aabA aagt aahc aabO aafb aacb aabQ aaaG aaaY aaiJ aadq aahD aabX aabd aabC aaec aaip aaeT aahl aafS aabj aafT aaax aahX aadF aagJ aadS aaaY aaeV aaeY aajx aagw aaiz aagT aafs aabd aaiU aahi aabJ aaan aagl aach aaeY aafq aadl aagB aajt aaiI aaiC aaeg aaeU aaaf aaat aacz aafk aabg aajj aajc aace aabG aabD aaiJ aaic aahk aade aaaW aain aajh aafm aahf aagC aaiF aajm aabU aaeq aajF aafD aaed aaiH aaez aafr aabd aabN aafK aaaL aaef aadZ aaao aaaK aagd aaiI aacn aacp aaen aajx aacB aafj aafn aacc aaaQ aacM aafM aagD aacs aahH aabn aacs aaaM aacy aaih aacu aahP aagt aabp aabc aahe aafu aafb aaeA aage aaim aadC aafz aahJ aahP aacz aaaF aadt aahM aacH aabr aaaS aafC aafc aaas aadD aagq aacK aabx aafW aabm aadR aaeg aahF aafg aacq aacl aahJ aahr aagL aabp aadf aaaH aagP aabj aafF aajo aabO aagg aahu aabD aaeF aafu aahf aaab aafM aahQ aagr aaix aajo aajw aagR aaaH aadW aabY aacW aagm aaej aaaZ aabf aaic aaco aaek aafR aagl aaft aabQ aafT aaep aahW aaaP aafT aacV aadr aads aacX aaje aabD aagw aafd aahZ aagm aajc aaiG aahq aaii aabW aabe aacL aaad aacj aahV aajg aadC aaeg aafL aagd aafX aaiN aaaN aabv aagK aagG aaer aaaw aaas aaew aajA aaiJ aabm aacf aahc aahz aabB aagd aacr aaad aafh aadw aajC aact aacN aaeZ aaiH aagp aajf aaeM aacN aacE aabb aadA aaea aahM aaaA aair aafq aahG aadh aacs aagK aabB aaex aabo aagi aadg aaez aaiA aaar aaab 
